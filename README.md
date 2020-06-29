@@ -9,12 +9,14 @@ Statistical natural language processing
 
 4. SENTIMENTAL_ANALYSIS_19MAI0027.ipynb : code demo for sentiment analysis using IMDB dataset.
 
-5. SNLP_BrownCorpus_inauguralCorpus_19MAI0027.ipynb : Basic functions and implementations on Brown corpus and inaugural corpus. 
+5. SNLP_BrownCorpus_inauguralCorpus_19MAI0027.ipynb : Basic functions and implementations on Brown corpus and inaugural corpus.
 
-6. Tree SS.PNG : Tree depiction output for chunking.
+6. <a url='https://github.com/abhishek-30/SNLP/blob/master/SpaCY%20-%2019MAI0027.pdf'>SpaCY-19MAI0027</a> : demo SpaCY code for tokenization, pos_tagging, name entity recognition, similarity using SpaCY instead of NLTK.
 
-7. Tree SS2.PNG : Tree depiction output for chunking.
+7. Tree SS.PNG : Tree depiction output for chunking.
 
-8. embeding_19MAI0027.ipynb : code demo for embeding, word to vector conversion. 
+8. Tree SS2.PNG : Tree depiction output for chunking.
 
-9. simple_text_classifier_19MAI0027.ipynb : Code demo for building a simple text classifier.
+9. embeding_19MAI0027.ipynb : code demo for embeding, word to vector conversion. 
+
+10. simple_text_classifier_19MAI0027.ipynb : Code demo for building a simple text classifier.
